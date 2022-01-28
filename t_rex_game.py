@@ -29,6 +29,7 @@ def perform_action(data):
                 return
 
     # ToDo: For Bird
+    # The pixel range has to be extended for identifying Bird obstacles
     return
 
 
